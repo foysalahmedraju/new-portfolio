@@ -1,0 +1,103 @@
+body{ 
+    font-family: 'Anton', sans-serif;
+    margin: 0;
+    }
+    h1{
+        font-size: 50px;
+        text-align: center;
+    }
+    #mission{
+        color: rgb(211, 135, 22);
+    }
+    .sama{
+        color: rgb(136, 10, 10);
+        text-align: center;
+     
+        
+    }
+    .lala{
+        color: rgb(0, 0, 0);
+    }
+    .flexible-container{
+        display: flex;
+    }
+    #alada{
+        width: 50%;
+        padding-left: 5%;
+            border-left: 7px solid;
+            border-image: linear-gradient(red, rgb(219, 255, 12));
+          border-image-slice: 1;
+    }
+    .alada img{
+        width: 80%;
+    }
+    .lafa{
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato );
+        padding: 10px 10px;
+        color: rgb(0, 0, 0);
+        font-weight: 700px;
+        border-radius: 5px;
+    }
+    .banar{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+    }
+    .rep{
+        
+    }
+    .laf{
+        text-decoration: none;
+        background-image: linear-gradient(red, rgb(255, 0, 119));
+        padding: 10px 10px;
+        color: rgb(255, 255, 255);
+        font-weight: 700px;
+        border-radius: 5px;
+
+    }
+    .rep{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .mtt{
+        margin: 0 auto;
+      margin-left: 5%;
+      margin-right: 5%
+        padding: 20px;
+        width: 40%;
+        box-shadow: 10px 10px 40px gray;
+    }
+    .ex{
+        background-image: url(images/exp-bg.png);
+        background-repeat: no-repeat;
+        
+
+    }
+    #idex{
+        
+        border-left: 7px ;
+        background-color: rgb(194, 192, 100);
+        border-radius: 15px;
+
+    }
+    #tf{
+         border-left: 7px ;
+         background-color: rgb(196, 201, 201);
+         border-radius: 10px;
+        
+
+    }
+    #last{
+        
+        border-left: 7px ;
+        background-color: rgb(99, 100, 168);
+        border-radius: 10px;
+    }
+    footer p{
+        text-align: center;
+    }
+    #footer{
+        color: red;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
